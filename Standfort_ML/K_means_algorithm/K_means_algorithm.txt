@@ -1,0 +1,1 @@
+This is the solution of K_means_alogirthm_challange from Week 1 of Standford's Machine Learning Course 3
